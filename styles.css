@@ -476,4 +476,7 @@ footer > p {
     .card {
         align-self: center;
     }
+    .logo {
+        width:80px;
+    }
 }
